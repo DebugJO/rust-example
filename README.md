@@ -1,6 +1,26 @@
 # rust-example
 rust language example
 
+### Rust (programming language) - wikipedia
+Rust is a multi-paradigm, general-purpose programming language designed for performance and safety, especially safe concurrency. Rust is syntactically similar to C++, but can guarantee memory safety by using a borrow checker to validate references. Rust achieves memory safety without garbage collection, and reference counting is optional. Rust has been called a systems programming language and in addition to high-level features such as functional programming it also offers mechanisms for low-level memory management.
+
+### Rust Project - ko.wikipedia
+
+* 파이어폭스
+* 매직 포켓 – 드롭박스의 파일 스토리지 시스템
+* 서보 – 모질라의 새 병렬 렌더링 엔진으로, 삼성과 함께 개발되고 있음.
+* OpenDNS – 구성 요소 중 2개에 러스트를 사용하고 있음.
+* 레독스 OS – 러스트로 개발 중인 마이크로커널 운영 체제.
+* TiKV – 러스트로 구동되는 분산 키 값 데이터베이스.
+* Piston – 모듈식 게임 엔진
+* 디스코드 — 러스트로 백엔드가 구동되는 채팅 소프트웨어
+* Deno – V8을 기반으로 하는 자바스크립트 및 타입스크립트 런타임
+
+### Blog
+
+* [amazon.science, "How Prime Video updates its app for more than 8,000 device types"](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types)
+* [microsoft.com, "Microsoft joins Rust Foundation"](https://cloudblogs.microsoft.com/opensource/2021/02/08/microsoft-joins-rust-foundation/)
+
 ### Reference : Intro
 
 1. [노마드 코더 Nomad Coders, "C가 주옥같은 개발자들 보세요. Rust 10분 정리!"](https://www.youtube.com/watch?v=w1dlmOjDLX8)
