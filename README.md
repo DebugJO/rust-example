@@ -41,6 +41,12 @@ Rust is a multi-paradigm, general-purpose programming language designed for perf
 2. [rust-lang-book-ko, The Rust Programming Language"](https://rinthel.github.io/rust-lang-book-ko/)
 3. [dhghomon, "Easy Rust"](https://dhghomon.github.io/easy_rust/)
 
+### Reference : Example
+
+1. [Jenifer Champagne, "Introduction to Rust syntax with a REST API built with Rocket"](https://www.youtube.com/watch?v=8RA6LSjXvRk)
+2. [Genus-v Programming, "Building an Authentication Service using Actix"](https://www.youtube.com/playlist?list=PLECOtlti4Psqw1qRaN4R9sWSQWvqfJU_V)
+3. [robertohuertasm, "Rust, sesiones prácticas - API REST"](https://www.youtube.com/playlist?list=PLojDVPvSO1Di_QEnvDOI5FIeieqYpm1xd)
+
 ### API / Registry
 
 1. [rust docs, "Docs.rs"](https://docs.rs/)
