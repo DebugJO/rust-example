@@ -1,17 +1,18 @@
-mod clinet {
-    #[derive(Debug)]
-    pub struct InternetClient {
-        pub client_id: u32,
-    }
-}
+// client.rs
+// #[derive(Debug)]
+// pub struct InternetClient {
+//     pub client_id: u32,
+// }
 
-use clinet::InternetClient;
+// main.rs
+mod client;
+
 use core::fmt;
 
 struct Customer<'a> {
     money: u32,
     name: &'a str,
-    client: &'a InternetClient,
+    client: &'a client::InternetClient,
 }
 
 impl fmt::Debug for Customer<'_> {
@@ -21,7 +22,7 @@ impl fmt::Debug for Customer<'_> {
 }
 
 fn main() {
-    let client = clinet::InternetClient { client_id: 0 };
+    let client = client::InternetClient { client_id: 0 };
 
     let customer = Customer { money: 1234, name: "가나닭", client: &client };
 
