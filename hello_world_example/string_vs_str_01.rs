@@ -10,10 +10,15 @@
 // https://prev.rust-lang.org/ko-KR/faq.html#strings
 
 fn main() {
-    let c: &str = "World";
+    let c: &str = "World"; // immutable
     let s: String = c.to_string();
     let result = say_hello(&s);
     println!("{}", result);
+
+    let mut my_str = "가나닭"; // to mutable
+    println!("{}", my_str);
+    my_str = &"마바삵";
+    println!("{}", my_str);
 }
 
 fn say_hello(name: &str) -> String {
