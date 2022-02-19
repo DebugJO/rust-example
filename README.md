@@ -34,6 +34,7 @@ Rust is a multi-paradigm, general-purpose programming language designed for perf
 5. [dcode, "Rust Programming Tutorials"](https://www.youtube.com/playlist?list=PLVvjrrRCBy2JSHf9tGxGKJ-bYAN_uDCUL)
 6. [Tensor Programming, "Intro to Rust"](https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW)
 7. [Let's Get Rusty, "The Rust Lang Book"](https://www.youtube.com/playlist?list=PLai5B987bZ9CoVR-QEIN9foz4QCJ0H2Y8)
+8. [Doug Milford, "Rust Tutorial"](https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5)
 
 ### Reference : Document 
 
