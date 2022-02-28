@@ -40,3 +40,16 @@ fn main() {
     println!("{}", first_name.name);
     println!("{}", second_name.name);
 }
+
+// 0 Borrowed : Remainder is 0
+// 1 Borrowed : Remainder is 1
+// 2 Owned : Remainder is 2
+// 3 Borrowed : Remainder is 0
+// 4 Borrowed : Remainder is 1
+// 5 Owned : Remainder is 2
+// 6 Borrowed : Remainder is 0
+// 7 Borrowed : Remainder is 1
+// 8 Owned : Remainder is 2
+// 9 Borrowed : Remainder is 0
+// 가나닭
+// 홍길동
