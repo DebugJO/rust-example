@@ -1,5 +1,5 @@
 [package]
-name = "w001_caesar_enc"
+name = "w002_prime100"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 winsafe = { version = "0.0.18", features = ["shell"] }
+num-bigint = "0.4"
